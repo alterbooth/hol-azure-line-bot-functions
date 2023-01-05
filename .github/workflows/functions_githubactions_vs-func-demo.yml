@@ -7,7 +7,7 @@ on:
   push:
     # branches: [ "main" ]
     branches: 
-      - Functions_GitHubActions
+      - functions_githubactions
   workflow_dispatch:
 
 env:
